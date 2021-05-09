@@ -3,7 +3,7 @@
 #
 #
 apt update
-apt upgrde
+apt upgrade
 apt install figlet -y
 figlet Basic Installation
 gem install lolcat
